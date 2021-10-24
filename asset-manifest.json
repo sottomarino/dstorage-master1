@@ -1,15 +1,25 @@
 {
-  "main.css": "/nft-master/static/css/main.1e37f0ad.chunk.css",
-  "main.js": "/nft-master/static/js/main.092f752f.chunk.js",
-  "main.js.map": "/nft-master/static/js/main.092f752f.chunk.js.map",
-  "static/css/1.9765a299.chunk.css": "/nft-master/static/css/1.9765a299.chunk.css",
-  "static/js/1.fedbd7fb.chunk.js": "/nft-master/static/js/1.fedbd7fb.chunk.js",
-  "static/js/1.fedbd7fb.chunk.js.map": "/nft-master/static/js/1.fedbd7fb.chunk.js.map",
-  "runtime~main.js": "/nft-master/static/js/runtime~main.d7210db2.js",
-  "runtime~main.js.map": "/nft-master/static/js/runtime~main.d7210db2.js.map",
-  "static/css/main.1e37f0ad.chunk.css.map": "/nft-master/static/css/main.1e37f0ad.chunk.css.map",
-  "static/css/1.9765a299.chunk.css.map": "/nft-master/static/css/1.9765a299.chunk.css.map",
-  "index.html": "/nft-master/index.html",
-  "precache-manifest.3730c7f4afc8ebbd259979c02abeb7f9.js": "/nft-master/precache-manifest.3730c7f4afc8ebbd259979c02abeb7f9.js",
-  "service-worker.js": "/nft-master/service-worker.js"
+  "files": {
+    "main.css": "/dstorage-master1/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/dstorage-master1/static/js/main.ca61179a.chunk.js",
+    "main.js.map": "/dstorage-master1/static/js/main.ca61179a.chunk.js.map",
+    "runtime-main.js": "/dstorage-master1/static/js/runtime-main.5fa77b93.js",
+    "runtime-main.js.map": "/dstorage-master1/static/js/runtime-main.5fa77b93.js.map",
+    "static/css/2.a6a636a0.chunk.css": "/dstorage-master1/static/css/2.a6a636a0.chunk.css",
+    "static/js/2.384b1cb9.chunk.js": "/dstorage-master1/static/js/2.384b1cb9.chunk.js",
+    "static/js/2.384b1cb9.chunk.js.map": "/dstorage-master1/static/js/2.384b1cb9.chunk.js.map",
+    "index.html": "/dstorage-master1/index.html",
+    "precache-manifest.5222b39896b49e065e8385d4c3e1e221.js": "/dstorage-master1/precache-manifest.5222b39896b49e065e8385d4c3e1e221.js",
+    "service-worker.js": "/dstorage-master1/service-worker.js",
+    "static/css/2.a6a636a0.chunk.css.map": "/dstorage-master1/static/css/2.a6a636a0.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/dstorage-master1/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.384b1cb9.chunk.js.LICENSE.txt": "/dstorage-master1/static/js/2.384b1cb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fa77b93.js",
+    "static/css/2.a6a636a0.chunk.css",
+    "static/js/2.384b1cb9.chunk.js",
+    "static/css/main.d850c1a7.chunk.css",
+    "static/js/main.ca61179a.chunk.js"
+  ]
 }
